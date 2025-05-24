@@ -89,7 +89,7 @@ hr {
 
 
 
-> ### *About Enzo Nicolai T. Teves High School*
+\# About Enzo Nicolai T. Teves High School
 
 
 
